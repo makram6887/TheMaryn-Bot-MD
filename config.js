@@ -7,21 +7,21 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "*『🍷𝐌𝐀𝐑𝐘𝐍┊🤖┊𝐁𝐎𝐓🍷』*"
+global.botnumber = "*『🍷Makram┊🤖┊Bot🍷』*"
 global.confirmCode = ""
 
-global.owner = [['201280244814', '⁨𝐻𝐴𝑅𝐿𝐸𝑌 𝐿𝐼𝐺𝐻𝑇⁩', true],
+global.owner = [['201508986420', '⁨𝐻𝐴𝑅𝐿𝐸𝑌 𝐿𝐼𝐺𝐻𝑇⁩', true],
 ];
 
-global.suittag = ['201280244814'];
-global.prems = ['201280244814'];
+global.suittag = ['201508986420'];
+global.prems = ['201508986420'];
 
-global.packname = '🍷𝐌𝐀𝐑𝐘𝐍┊🤖┊𝐁𝐎𝐓🍷';
-global.author = '🍷𝐌𝐀𝐑𝐘𝐍┊🤖┊𝐁𝐎𝐓🍷';
-global.wm = '🍷𝐌𝐀𝐑𝐘𝐍┊🤖┊𝐁𝐎𝐓🍷';
-global.titulowm = '🍷𝐌𝐀𝐑𝐘𝐍┊🤖┊𝐁𝐎𝐓🍷';
-global.titulowm2 = `🍷𝐌𝐀𝐑𝐘𝐍┊🤖┊𝐁𝐎𝐓🍷`
-global.igfg = '🍷𝐌𝐀𝐑𝐘𝐍┊🤖┊𝐁𝐎𝐓🍷';
+global.packname = '『🍷Makram┊🤖┊Bot🍷』';
+global.author = '『🍷Makram┊🤖┊Bot🍷』';
+global.wm = '『🍷Makram┊🤖┊Bot🍷』';
+global.titulowm = '『🍷Makram┊🤖┊Bot🍷』';
+global.titulowm2 = `『🍷Makram┊🤖┊Bot🍷』`
+global.igfg = '『🍷Makram┊🤖┊Bot🍷』';
 global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/harley_light*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -42,10 +42,9 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('ar-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n🍷𝐌𝐀𝐑𝐘𝐍┊🤖┊𝐁𝐎𝐓🍷`;
-global.gt = '🍷𝐌𝐀𝐑𝐘𝐍┊🤖┊𝐁𝐎𝐓🍷';
-global.mysticbot = '🍷𝐌𝐀𝐑𝐘𝐍┊🤖┊𝐁𝐎𝐓🍷';
-global.md = 'https://chat.whatsapp.com/H93YpO0LkJNHoTmtIhcL1z';
+global.wm2 = `${dia} ${fecha}\n『🍷Makram┊🤖┊Bot🍷』`;
+global.gt = '『🍷Makram┊🤖┊Bot🍷』';
+global.mysticbot = '『🍷Makram┊🤖┊Bot🍷』';
 global.mysticbot = 'atom.bio/harley_light';
 global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/harley_light*';
 global.waittt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/harley_light*';
